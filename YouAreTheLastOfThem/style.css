@@ -20,7 +20,7 @@ h2 {
 }
 
 h1 {
-    font-size: 20pt;
+    font-size: 30pt;
     margin-bottom: 10px;
 }
 
@@ -47,7 +47,7 @@ h2 {
 
 .written-in-ink {
     z-index: 3;
-    font-size: 15pt;
+    font-size: 9pt;
     font-family: sans-serif;
     text-align: center;
     font-weight: 700;
