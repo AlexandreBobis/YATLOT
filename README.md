@@ -1,6 +1,6 @@
 # You Are The Last Of Them
 
-You Are The Last Of Them(YATLOT) is a Dev Game made with Inky, the official Inkle programming language. Enjoy !
+You Are The Last Of Them (YATLOT) is a Dev Game made with Inky, the official Inkle programming language. Enjoy !
 
 ## Story
 
@@ -30,6 +30,13 @@ There are four pieces of the puzzle to find. You can find them in different plac
 
 I uses random numbers, you have 1% of chance to find one in fishing and collecting stones.
 
+## Installation
+
+Clone this repository and open ./YouAreTheLastOfThem/index.html
+
 ## Technology
 
 YATLOT is made with [Inky](https://www.inklestudios.com/ink/), the official Inkle programming language. Inky is a simple way to learn programming and to create interactive stories.
+
+
+*Don't forget the star ⭐*
