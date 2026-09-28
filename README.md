@@ -1,5 +1,7 @@
 # You Are The Last Of Them
 
+*Read this in [Français](README.fr.md).*
+
 You Are The Last Of Them (YATLOT) is a Dev Game made with Inky, the official Inkle programming language. Enjoy !
 
 ## Story
